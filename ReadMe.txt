@@ -1,0 +1,1 @@
+I am using GloVe word Embedding but due to 350 MB size it is not attached here. :)
